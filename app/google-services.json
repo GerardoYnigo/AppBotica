@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637533749721",
+    "project_id": "appbotica-bf849",
+    "storage_bucket": "appbotica-bf849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637533749721:android:3aae02e45d1fb6fb9719c8",
+        "android_client_info": {
+          "package_name": "com.example.appbotica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637533749721-sjkj0f0dj0nl89r228jmp39l6jueg7f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrqHGlFumWwzTLCk2jF2zdRMRjNfa8itk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637533749721-sjkj0f0dj0nl89r228jmp39l6jueg7f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
